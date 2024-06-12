@@ -1711,7 +1711,7 @@ img{
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: #000000;
+	background-color: #6a0c66;
 	opacity: .70;
 	content: "";
 }
@@ -8577,7 +8577,7 @@ img{
 .instagram-widget .outer .image{
 	position:relative;
 	float:left;
-	width:33.3333%;
+	width:24.3333%;
 	padding:0px 4px;
 	margin-bottom:10px;
 }
